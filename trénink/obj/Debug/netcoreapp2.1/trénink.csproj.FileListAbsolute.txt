@@ -1,0 +1,11 @@
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\obj\Debug\netcoreapp2.1\trénink.csprojAssemblyReference.cache
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\obj\Debug\netcoreapp2.1\trénink.csproj.CoreCompileInputs.cache
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\obj\Debug\netcoreapp2.1\trénink.AssemblyInfoInputs.cache
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\obj\Debug\netcoreapp2.1\trénink.AssemblyInfo.cs
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\bin\Debug\netcoreapp2.1\trénink.deps.json
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\bin\Debug\netcoreapp2.1\trénink.runtimeconfig.json
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\bin\Debug\netcoreapp2.1\trénink.runtimeconfig.dev.json
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\bin\Debug\netcoreapp2.1\trénink.dll
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\bin\Debug\netcoreapp2.1\trénink.pdb
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\obj\Debug\netcoreapp2.1\trénink.dll
+C:\Users\Valentik.Lu.2022\source\repos\trénink\trénink\obj\Debug\netcoreapp2.1\trénink.pdb
